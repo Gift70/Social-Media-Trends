@@ -14,35 +14,35 @@ Focus: Understanding engagement across platforms and content types
 
 Key Insights
 
-YouTube Dominates Engagement
+• YouTube Dominates Engagement
 
-•	Among all platforms, YouTube stood out as the clear leader in total views, likes, shares, etc. particularly for short-form content like videos and challenges.
+Among all platforms, YouTube stood out as the clear leader in total views, likes, shares, etc. particularly for short-form content like videos and challenges.
 
-Live Stream- Based Content Performs Best
+• Live Stream- Based Content Performs Best
 
-•	Across platforms, content types like Live Streams, Text Posts and Reels consistently had the highest engagement rates compared to Shorts and Videos.
+Across platforms, content types like Live Streams, Text Posts and Reels consistently had the highest engagement rates compared to Shorts and Videos.
 
-Top Hashtags That Drive Interaction
+• Top Hashtags That Drive Interaction
 
-•	Word cloud analysis revealed the most popular hashtags include #Fitness, #Music, #Education, #Challenge, and #Comedy with "Fitness" and "Music" standing out prominently.
+Word cloud analysis revealed the most popular hashtags include #Fitness, #Music, #Education, #Challenge, and #Comedy with "Fitness" and "Music" standing out prominently.
 
-Engagement Rate Gaps Across Platforms
+• Engagement Rate Gaps Across Platforms
 
-•	Instagram had the highest engagement rate at 10.7%, followed by YouTube at 10.1%. TikTok and Twitter had slightly lower but still competitive rates.
+Instagram had the highest engagement rate at 10.7%, followed by YouTube at 10.1%. TikTok and Twitter had slightly lower but still competitive rates.
 
-•	Despite similar view volumes, differences in comment and like rates led to varied engagement effectiveness.
+Despite similar view volumes, differences in comment and like rates led to varied engagement effectiveness.
 
-Regional Patterns in Interaction
+• Regional Patterns in Interaction
 
-•	The analysis revealed that regions like Canada, USA and the UK were most active in terms of user interaction.
+The analysis revealed that regions like Canada, USA and the UK were most active in terms of user interaction.
 
-•	Canada and USA showed high content interaction levels, especially with education and fitness-based content.
+Canada and USA showed high content interaction levels, especially with education and fitness-based content.
 
-•	Japan and Germany displayed moderate but steady engagement behavior.
+Japan and Germany displayed moderate but steady engagement behavior.
 
-Engagement Level Distribution
+• Engagement Level Distribution
 
-•	The engagement funnel (High, Medium, Low) indicated a sizable portion of posts still fall under Low engagement, a signal that virality doesn't always equal interaction.
+The engagement funnel (High, Medium, Low) indicated a sizable portion of posts still fall under Low engagement, a signal that virality doesn't always equal interaction.
 
 Dashboard Features
 
