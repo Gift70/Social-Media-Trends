@@ -72,3 +72,10 @@ Conclusion
 
 This project highlights that going viral is not just about visibility, but engagement. True content performance lies in how users interact with posts, likes, shares, comments and not just views. By analyzing these layers of interaction, businesses and creators can optimize their strategies to create not just viral content, but impactful content.
 
+Contributions, feedback, and discussions are welcome!
+
+LinkedIn: https://www.linkedin.com/in/giftchisom
+
+GitHub: https://www.github.com/Gift70
+
+Email: giftohamazue1@gmail.com
