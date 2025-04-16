@@ -18,13 +18,13 @@ Key Insights
 
 Among all platforms, YouTube stood out as the clear leader in total views, likes, shares, etc. particularly for short-form content like videos and challenges.
 
-• Live Stream- Based Content Performs Best
+• Reel - Based Content Performs Best
 
-Across platforms, content types like Live Streams, Text Posts and Reels consistently had the highest engagement rates compared to Shorts and Videos.
+Across platforms, content types like Reels, Live Streams and Text Posts consistently had the highest engagement rates compared to Shorts and Videos.
 
 • Top Hashtags That Drive Interaction
 
-Word cloud analysis revealed the most popular hashtags include #Fitness, #Music, #Education, #Challenge, and #Comedy with "Fitness" and "Music" standing out prominently.
+Word cloud analysis revealed the most popular hashtags include #Fitness, #Education, #Challenge, #Comedy and #Dance with "Fitness" and "Education" standing out prominently.
 
 • Engagement Rate Gaps Across Platforms
 
